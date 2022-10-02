@@ -1,0 +1,13 @@
+Recommendation System is basically a piece of code which is intelligent enough to understand a user's preference and suggests according to what the user would like.
+
+It's main aim is to increase profitability and to engage user as much as it can.
+
+There are 4 types of recommedation system:-
+
+1)Popularity Based--The most popular in the platform is recommended to the user. Based on certain formula.
+
+2)Content Based-Based on the similarity of the product/genre, if user likes a certain product/movie/song then he may also like the other similar product. Based on the attributes of a certain product a user like, we can suggest product similar to that attribute.
+
+3)Collaborative Filter based-Based on what user likes.
+
+4)Hybrid-Using all the above recommender system, it suggests the user.
